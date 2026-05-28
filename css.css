@@ -4,8 +4,8 @@ body{
     background-image: url(hh.png);
     background-repeat: no-repeat;
     background-position: right top;
-    background-size: 100px 100px;
-    width: 150%; 
+    background-size: auto;
+    width: 100%; 
     min-height: 150px; 
 
 
