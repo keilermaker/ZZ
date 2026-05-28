@@ -1,4 +1,10 @@
 body{
-    background-color: azure;
+    background-color: black;
     text-align: left;
+}
+.imagen{
+background-image: url();
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: 100px auto;
 }
