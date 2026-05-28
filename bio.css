@@ -1,17 +1,13 @@
 body{
     background-color: rgba(192, 240, 224, 0.918);
     text-align: left;
-}
-
-imagen {
-
     background-image: url(hh.png);
     background-repeat: no-repeat;
-    background-position: right top;
-    background-size: 100px auto;
-    
-    /* Nota: Asegúrate de que el contenedor tenga tamaño para que se vea */
-    width: 100%; 
-    min-height: 150px; 
+    background-position: right;
+     width: 100%; 
+
 
 }
+
+
+ 
