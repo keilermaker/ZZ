@@ -1,9 +1,9 @@
 body{
-    background-color: black;
+    background-color: aquamarine;
     text-align: left;
 }
 .imagen{
-background-image: url();
+background-image: url(hh.png);
     background-repeat: no-repeat;
     background-position: right top;
     background-size: 100px auto;
