@@ -1,10 +1,14 @@
 body{
-    background-color: aquamarine;
+    background-color: rgba(172, 231, 212, 0.918);
     text-align: left;
 }
-.imagen{
-background-image: url(hh.png);
+.imagen {
+    background-image: url('hh.png');
     background-repeat: no-repeat;
     background-position: right top;
     background-size: 100px auto;
+    
+    /* Nota: Asegúrate de que el contenedor tenga tamaño para que se vea */
+    width: 100%; 
+    min-height: 150px; 
 }
