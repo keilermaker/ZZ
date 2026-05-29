@@ -4,9 +4,8 @@ body{
     background-image: url(hh.png);
     background-repeat: no-repeat;
     background-position: right top;
-    background-size: 30px 50px;
-   
-
-
-
+    background-size: 250px 245px;
+    width: 100%;
+    min-height: 150px;
 }
+
